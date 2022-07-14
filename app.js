@@ -189,11 +189,6 @@ app.post("/login", function(req, res){
 
 });
 
-
-
-
-
-
 app.listen(PORT, function(){
   console.log(`Node JS Server Started in Port ${PORT}`);
 });
